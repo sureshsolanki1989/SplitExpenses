@@ -1,2 +1,2 @@
 # SplitExpenses
-Split the group/individual Expenses Algorithm based on SQL
+Split the group/individual Expenses Algorithm on SQL
